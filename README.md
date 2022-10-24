@@ -1,4 +1,4 @@
-# Hi! It's Me!
+# Hi! This is Me!
 name : suho Lee (man) <br>
 age : 17 years old<br>
 Semyeong Computer High School <br>
